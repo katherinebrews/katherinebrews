@@ -1,5 +1,5 @@
-- 👋🏻 Hi, I’m @katherinebrews
-- 👩🏻‍💻 I’m a Product Security Engineer at Cloudflare
+- 👋🏻 Hi, my name is @katherinebrews!
+- 👩🏻‍💻 I’m a Security Engineer at Cloudflare.
 
 
 <!---
